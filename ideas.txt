@@ -1,0 +1,22 @@
+Theme: Connected Worlds
+
+Idea:
+You are playing in two worlds at the same time. The controls are connected. You solve
+puzzles in both worlds at the same time, and try to reach the end with both characters
+at the same time.
+
+TODO:
++ Game Window
++ Get something on the screen
++ Get 2 worlds on the screen
++ Load levels from file
++ Character control
++ Character interaction
++ Level switching
++ Level Design (1 - 4)
++ Sound
++ Graphics
+~ Level Design (5 - ?)
++ Menu
++ Backstory
+- Music?
